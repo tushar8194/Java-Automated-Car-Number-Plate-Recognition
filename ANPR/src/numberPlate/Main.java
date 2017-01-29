@@ -1,5 +1,12 @@
 package numberPlate;
 
+/*
+ * 
+ * Author : Tushar Singhal
+ * Date : 29 Jan 2017
+ * Code is derived from Java ANPR library and enhanced to make it more power full.
+ * */
+
 import java.io.File;
 import java.io.IOException;
 
