@@ -3,6 +3,7 @@ package numberPlate;
 /*
  * 
  * Author : Tushar Singhal
+ * Email : tushar8194@gmail.com
  * Date : 29 Jan 2017
  * Code is derived from Java ANPR library and enhanced to make it more power full.
  * */
