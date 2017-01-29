@@ -25,7 +25,7 @@ public class Main {
    				System.out.println("Directory is not empty!");
    				for(String filename : file.list())
 				{
-   	//comment this			count++;	
+   	//			count++;	
    		//		if(count<2){ImageName=filename;}
    			//	else {System.out.println("More than one Image"); System.exit(0);}
 				//System.out.println(filename);
